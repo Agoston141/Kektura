@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Molnár Ágoston\c#\Kéktúra\bin\Debug\net7.0\Kéktúra.exe
+C:\Users\User\Documents\Molnár Ágoston\c#\Kéktúra\bin\Debug\net7.0\Kéktúra.deps.json
+C:\Users\User\Documents\Molnár Ágoston\c#\Kéktúra\bin\Debug\net7.0\Kéktúra.runtimeconfig.json
+C:\Users\User\Documents\Molnár Ágoston\c#\Kéktúra\bin\Debug\net7.0\Kéktúra.dll
+C:\Users\User\Documents\Molnár Ágoston\c#\Kéktúra\bin\Debug\net7.0\Kéktúra.pdb
+C:\Users\User\Documents\Molnár Ágoston\c#\Kéktúra\obj\Debug\net7.0\Kéktúra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Molnár Ágoston\c#\Kéktúra\obj\Debug\net7.0\Kéktúra.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Molnár Ágoston\c#\Kéktúra\obj\Debug\net7.0\Kéktúra.AssemblyInfo.cs
+C:\Users\User\Documents\Molnár Ágoston\c#\Kéktúra\obj\Debug\net7.0\Kéktúra.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Molnár Ágoston\c#\Kéktúra\obj\Debug\net7.0\Kéktúra.dll
+C:\Users\User\Documents\Molnár Ágoston\c#\Kéktúra\obj\Debug\net7.0\refint\Kéktúra.dll
+C:\Users\User\Documents\Molnár Ágoston\c#\Kéktúra\obj\Debug\net7.0\Kéktúra.pdb
+C:\Users\User\Documents\Molnár Ágoston\c#\Kéktúra\obj\Debug\net7.0\Kéktúra.genruntimeconfig.cache
+C:\Users\User\Documents\Molnár Ágoston\c#\Kéktúra\obj\Debug\net7.0\ref\Kéktúra.dll
